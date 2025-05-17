@@ -1,5 +1,5 @@
 {
-  "version": "2025.2",
-  "download_url": "https://github.com/pasekpsbali/updatersp/releases/download/raporsp2025.1/updater20252.zip",
-  "changelog": "Perbaikan transkrip ijazah."
+  "version": "2025.3",
+  "download_url": "https://github.com/pasekpsbali/updatersp/releases/download/raporsp20253/updateapp20253.zip",
+  "changelog": "Perbaikan Bug Mapel Gabungan dan memperluas akses restore data."
 }
