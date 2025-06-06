@@ -1,5 +1,11 @@
 {
-  "version": "2025.4",
-  "download_url": "https://github.com/pasekpsbali/updatersp/releases/download/raporsp2025.4/updateraporsp20254.zip",
-  "changelog": "menambah fitur untuk cetak rapor PKL melalui menu guru pembimbing PKL seperti versi 2024 serta perbaikan bug generite rapor PKL pada wali kelas dan admin. dan perbaikan bug fitur restore data dari hasil backup eRapor SMA V.23.2 maupun eRapor SMP V. M.04"
+  "version": "2025.5",
+  "download_url": "https://github.com/pasekpsbali/updatersp/releases/download/raporsp2025.5/updateraporsp20255.zip",
+  "changelog": "Perbaikan bug pada setting pilihan kertas F4 <br/>
+Perbaikan tampilan pada cetak rapor P5 <br/>
+Perbaikan data referensi tema dan dimensi P5 <br/>
+Perbaikan input Nilai PTS dan Rapor untuk fitur nilai akhir pada mapel gabungan <br/>
+Perbaikan sistem logout yang menampilkan halaman error <br/>
+Perbaikan tampilan daftar kelas sesuai jenis rombel <br/>
+Perbaikan short data kelompok PKL pada input perencanaan PKL"
 }
